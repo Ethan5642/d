@@ -1,0 +1,62 @@
+[
+  {
+      "image": "1v1lol.jpg",
+      "name": "1v1.lol",
+      "url": "1v1lol"
+  },
+  {
+      "image": "bitlife.jpg",
+      "name": "Bitlife",
+      "url": "bitlife"
+  },
+  {
+      "image": "boxingrandom.png",
+      "name": "Boxing Random",
+      "url": "boxingrandom"
+  },
+  {
+      "image": "cookieclicker.png",
+      "name": "Cookie Clicker",
+      "url": "cookieclicker"
+  },
+  {
+      "image": "getawayshootout.jpg",
+      "name": "Getaway Shootout",
+      "url": "getawayshootout"
+  },
+  {
+      "image": "motox3m.avif",
+      "name": "Moto X3M",
+      "url": "motox3m"
+  },
+  {
+      "image": "motox3mwinter.avif",
+      "name": "Moto X3M Winter",
+      "url": "motox3mwinter"
+  },
+  {
+      "image": "run3.avif",
+      "name": "Run 3",
+      "url": "run3"
+  },
+  {
+      "image": "slope.webp",
+      "name": "Slope",
+      "url": "slope"
+  },
+  {
+      "image": "snowballio.png",
+      "name": "snowball.io",
+      "url": "snoballio"
+  },
+  {
+      "image": "vex5.jpg",
+      "name": "Vex 5",
+      "url": "vex5"
+  },
+  {
+      "image": "volleyrandom.png",
+      "name": "Volley Random",
+      "url": "volleyrandom"
+  }
+]
